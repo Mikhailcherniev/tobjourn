@@ -1,0 +1,87 @@
+.logo {
+    position: absolute;
+    width: 66.58px;
+    height: 66.58px;
+    left: 45px;
+    top: 19px;
+
+}
+
+.nome {
+    position: absolute;
+    width: 310.52px;
+    height: 48.69px;
+    left: 131.48px;
+    top: 27.24px;
+}
+
+.botão1 {
+    background-image: url(/imagens/herois.png);
+    background-size: 204px 29px;
+    position: absolute;
+    width: 204px;
+    height: 29px;
+    left: 500px;
+    top: 37px;
+
+}
+
+.botão1:hover {
+    background-image: url(/imagens/);
+    background-size: 204px 48px;
+    position: absolute;
+    width: 204px;
+    height: 29px;
+    left: 500px;
+    top: 37px;
+}
+
+.botão2 {
+    background-image: url(/imagens/historia\ jogo.png);
+    background-size: 164px 29px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 770px;
+    top: 37px;
+
+}
+
+.botão2:hover {
+    background-image: url(/imagens/);
+    background-size: 171px 49px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 770px;
+    top: 37px;
+}
+
+.botão3 {
+    background-image: url(/imagens/adquira\ o\ jogo.png);
+    background-size: 164px 29px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 990px;
+    top: 37px;
+}
+
+.botão3:hover {
+    background-image: url(/imagens/);
+    background-size: 164px 49px
+}
+
+.botão4 {
+    background-image: url(/imagens/);
+    background-size: 164px 29px;
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 1200px;
+    top: 37px;
+}
+
+body{
+    background-color: grey;
+}
